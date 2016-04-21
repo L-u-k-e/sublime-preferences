@@ -1,4 +1,6 @@
+
 {
+
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
@@ -26,4 +28,5 @@
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": false
 }
+
 
