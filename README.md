@@ -26,7 +26,7 @@
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": false
+	"translate_tabs_to_spaces": true
 }
 
 
