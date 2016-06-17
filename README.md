@@ -1,4 +1,5 @@
 
+```
 {
 
 	"always_show_minimap_viewport": true,
@@ -26,7 +27,9 @@
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": false,
+	"folder_exclude_patterns": [],
+	"file_exclude_patterns": []
 }
-
+```
 
